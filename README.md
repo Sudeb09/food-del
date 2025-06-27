@@ -2,6 +2,8 @@
 
 **Food-Del** is a full-stack food ordering web application built with the **MERN stack**, featuring secure **JWT authentication**, **Stripe payment integration**, and an **admin dashboard** for order and product management.
 
+🔗 **Live Demo**: [https://food-del-frontend-y3di.onrender.com](https://food-del-frontend-y3di.onrender.com)
+
 > ⚠️ **Note for Visitors:** This is a demo project. Please **do not make real payments**. The Stripe integration is in **test mode only**.
 >
 > 💳 You can use the following **Stripe test card**:
